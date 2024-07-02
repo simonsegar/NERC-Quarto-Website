@@ -1,0 +1,20 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/leafhopper.jpg"
+  #image: "img/ants.jpg"
+  #image: "img/figwasp.jpg"
+ 
+---
+
+::: {#about-block}
+:::
+
+Welcome to the 2024 NERC funded entomology skills course website!
+
+This website contains all of the information needed to navigate your way through the week alongside all of the files that we use for teaching. We have tried to cram the site full of as many freely available or open source resources as possible too.
+
+Enjoy!
+
+Queries about the site to Simon.
