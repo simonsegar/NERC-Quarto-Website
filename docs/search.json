@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Harper Adams NERC Course 2024",
+    "objectID": "useful_links/index.html",
+    "href": "useful_links/index.html",
+    "title": "Useful Websites",
     "section": "",
-    "text": "Welcome to the 2024 NERC funded entomology skills course website!\nThis website contains all of the information needed to navigate your way through the week alongside all of the files that we use for teaching. We have tried to cram the site full of as many freely available or open source resources as possible too.\nEnjoy!\nQueries about the site to Simon."
+    "text": "Mermaid\nA useful free planning tool."
   },
   {
-    "objectID": "files/index.html",
-    "href": "files/index.html",
-    "title": "Course Files",
+    "objectID": "useful_links/index.html#mermaid",
+    "href": "useful_links/index.html#mermaid",
+    "title": "Useful Websites",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "general_files/index.html",
-    "href": "general_files/index.html",
-    "title": "Course Files",
-    "section": "",
-    "text": "Lecture 1"
+    "text": "Mermaid\nA useful free planning tool."
   },
   {
     "objectID": "online_identification_guides/index.html",
@@ -33,5 +26,26 @@
     "title": "Online Identification Guides and Websites",
     "section": "",
     "text": "Mike’s Insect Keys\nA useful free resource."
+  },
+  {
+    "objectID": "files/index.html",
+    "href": "files/index.html",
+    "title": "Course Files",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Harper Adams NERC Course 2024",
+    "section": "",
+    "text": "Welcome to the 2024 NERC funded entomology skills course website!\nThis website contains all of the information needed to navigate your way through the week alongside all of the files that we use for teaching. We have tried to cram the site full of as many freely available or open source resources as possible too.\nEnjoy!\nQueries about the site to Simon."
+  },
+  {
+    "objectID": "lecture_material_powerpoints/index.html",
+    "href": "lecture_material_powerpoints/index.html",
+    "title": "Course Files",
+    "section": "",
+    "text": "Lecture 1"
   }
 ]

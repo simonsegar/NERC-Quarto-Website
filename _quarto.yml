@@ -18,8 +18,8 @@ website:
     left:
       - text: "Introduction and Timetable"
         href: introduction_timetable/index.qmd
-      - text: "General Files"
-        href: general_files/index.qmd
+      - text: "Useful Links"
+        href: useful_links/index.qmd
       - text: "Lecture Material and Powerpoints"
         href: lecture_material_powerpoints/index.qmd
       - text: "Online Identification Guides and Websites"
