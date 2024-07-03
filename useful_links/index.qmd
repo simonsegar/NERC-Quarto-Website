@@ -8,3 +8,33 @@ title: Useful Websites
 <a href="https://www.mermaidchart.com/app/login">Mermaid</a> 
 
 A useful free planning tool.
+
+## Better Science Guides
+
+<a href="https://www.britishecologicalsociety.org/publications/better-science/">BES Better Science Guides
+</a> 
+
+
+## Statistics for terrified biologists
+
+<a href="https://www.wiley.com/en-gb/Statistics+for+Terrified+Biologists%2C+2nd+Edition-p-9781119563679">Statistics</a> 
+
+
+## Mick Crawley's R book
+
+<a href="https://www.wiley.com/en-gb/The+R+Book%2C+2nd+Edition-p-9781118448908">R</a> 
+
+## Power Analysis
+
+<a href="https://www.statmethods.net/stats/power.html
+">When to stop!</a> 
+
+## Sampling Insects
+
+<a href="https://www.discoverlife.org/png/collecting_insects.html">Insect Sampling</a>
+
+
+
+
+
+
