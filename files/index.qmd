@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Curriculum vitae
-excerpt: My current CV
+title: Course Files
+excerpt: Course Files
 execute:
-  freeze: true  # never re-render during project render
+  freeze: false  # never re-render during project render
 engine: knitr 
 resources:
-  - "cv.pdf"
-cv:
-  pdf: "cv.pdf"
+  - "Research_Planning.pptx"
+Research_Planning:
+  pdf: "Research_Planning"
 ---
 
 ```{css echo=FALSE}
@@ -32,19 +32,8 @@ cv:
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
+  <a class="btn btn-primary btn-lg pptx-download" href="`r rmarkdown::metadata$Research_Planning$pptx`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Research_Planning
   </a>
 </p>
-<div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
-</div>
-```
-
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
 ```

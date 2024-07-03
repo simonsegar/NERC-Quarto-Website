@@ -6,9 +6,12 @@ execute:
   freeze: false  # never re-render during project render
 engine: knitr 
 resources:
-  - "cv.pdf"
-cv:
-  pdf: "cv.pdf"
+  - "Research_Planning"
+  - "Invertebrate_Survey_Methods"
+Invertebrate_Survey_Methods:
+  pdf: "Invertebrate_Survey_Methods.pptx"
+Research_Planning: 
+  pdf: "Research_Planning.pptx"
 ---
 
 ```{css echo=FALSE}
@@ -32,8 +35,15 @@ cv:
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Lecture 1
+  <a class="btn btn-primary btn-lg Research_Planning-download" href="`r rmarkdown::metadata$Research_Planning$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Research Planning
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Invertebrate_Survey_Methods-download" href="`r rmarkdown::metadata$Invertebrate_Survey_Methods$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Invertebrate Survey Methods
+  </a>
+</p>
+
+
 ```

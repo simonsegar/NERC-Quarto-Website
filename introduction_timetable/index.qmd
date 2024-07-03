@@ -2,4 +2,11 @@
 title: Introduction and Timetable
 ---
 
+Some useful information about the course.
+
+## Timetable
+
+<a href="https://liveharperac-my.sharepoint.com/:w:/r/personal/hcampbell_harper-adams_ac_uk/Documents/Harper/Teaching - NERC Entomology skills short course/Ento Skills Timetable July 2024.docx?d=wbe5f21143103486f93ffd3a34f3aa496&e=4%3a848f87408f5246c5bf1c1c5c9082afb0&sharingv2=true&fromShare=true&at=9&xsdata=MDV8MDJ8c3NlZ2FyQGhhcnBlci1hZGFtcy5hYy51a3xkZjJmMjNiY2YzMjE0OTA2MzBkMzA4ZGM4NGE3NjUwOHw0YTc5ODkwZGEyMDY0NzZlOWEyZjhjMTUyYzEyYjIyM3wwfDB8NjM4NTMxMTAxNjk2NDE1MTM0fFVua25vd258VFdGcGJHWnNiM2Q4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazFoYVd3aUxDSlhWQ0k2TW4wPXwwfHx8&sdata=OTVRMGwreUpoL2l1bVlJZGZsNzFmYzk1aVNhTlRISzNDTVk5ZXB3Z3M0az0%3d">Timetable 2024</a> 
+
+A dynamic timetable for 2024
 
