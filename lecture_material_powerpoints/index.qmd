@@ -8,10 +8,14 @@ engine: knitr
 resources:
   - "Research_Planning"
   - "Invertebrate_Survey_Methods"
+  - "Monitoring_Invertebrate_Pests"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
   pdf: "Research_Planning.pptx"
+Monitoring_Invertebrate_Pests:
+  pdf: "Monitoring_Invertebrate_Pests.pptx"
+
 ---
 
 ```{css echo=FALSE}
@@ -44,6 +48,22 @@ Research_Planning:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Invertebrate Survey Methods
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Monitoring_Invertebrate_Pests-download" href="`r rmarkdown::metadata$Monitoring_Invertebrate_Pests$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Monitoring Invertebrate Pests
+  </a>
+</p>
+
 
 
 ```
+
+## Monitoring Invertebrate Papers
+
+<a href="https://liveharperac-my.sharepoint.com/:f:/g/personal/ssegar_harper-adams_ac_uk/EnmAMdacjhpOv_M9JRwMLGABi3z7fCAc4z59r1kP7Pnb7A?e=y1CZOO
+">Monitoring Invertebrate Papers</a> 
+
+Papers referenced during the insect monitoring lectures
+ 
+
+
