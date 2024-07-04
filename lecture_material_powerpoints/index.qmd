@@ -9,12 +9,15 @@ resources:
   - "Research_Planning"
   - "Invertebrate_Survey_Methods"
   - "Monitoring_Invertebrate_Pests"
+  - "Segar_Summary"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
   pdf: "Research_Planning.pptx"
 Monitoring_Invertebrate_Pests:
   pdf: "Monitoring_Invertebrate_Pests.pptx"
+Segar_Summary:
+  pdf: "Segar_Summary.pptx"
 
 ---
 
@@ -53,6 +56,12 @@ Monitoring_Invertebrate_Pests:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Monitoring Invertebrate Pests
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Segar_Summary-download" href="`r rmarkdown::metadata$Segar_Summary$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Dr Segar's Summary of Interests
+  </a>
+</p>
+
 
 
 
