@@ -10,6 +10,9 @@ resources:
   - "Invertebrate_Survey_Methods"
   - "Monitoring_Invertebrate_Pests"
   - "Segar_Summary"
+  - "Campbell_Summary"
+  - "Introduction_Taxonomy"
+  - "Higher_Level_Taxonomy"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -18,6 +21,12 @@ Monitoring_Invertebrate_Pests:
   pdf: "Monitoring_Invertebrate_Pests.pptx"
 Segar_Summary:
   pdf: "Segar_Summary.pptx"
+Campbell_Summary:
+  pdf: "Campbell_Summary.pptx"
+Introduction_Taxonomy:
+  pdf: "Introduction_Taxonomy.pptx"
+Higher_Level_Taxonomy:
+  pdf: "Higher_Level_Taxonomy.pptx"
 
 ---
 
@@ -61,6 +70,23 @@ Segar_Summary:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Dr Segar's Summary of Interests
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Campbell_Summary-download" href="`r rmarkdown::metadata$Campbell_Summary$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Dr Campbell's Summary of Interests
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Introduction_Taxonomy-download" href="`r rmarkdown::metadata$Introduction_Taxonomy$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Introduction Taxonomy
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Higher_Level_Taxonomy-download" href="`r rmarkdown::metadata$Higher_Level_Taxonomy$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Higher Level Taxonomy
+  </a>
+</p>
+
+
 
 
 
