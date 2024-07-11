@@ -16,6 +16,7 @@ resources:
   - "Science_Communication"
   - "Collection_Curation"
   - "Bioinformatics_EntoSkills"
+  - "Molecular_Ecology_Introduction"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -36,6 +37,9 @@ Collection_Curation:
   pdf: "Collection_Curation.pptx"
 Bioinformatics_EntoSkills:
   pdf: "Bioinformatics_EntoSkills.pptx"
+Molecular_Ecology_Introduction:
+  pdf: "Molecular_Ecology_Introduction.pptx"
+
 ---
 
 ```{css echo=FALSE}
@@ -108,7 +112,11 @@ Bioinformatics_EntoSkills:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Bioinformatics EntoSkills
   </a>
 </p>
-
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Molecular_Ecology_Introduction-download" href="`r rmarkdown::metadata$Molecular_Ecology_Introduction$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Molecular Ecology Introduction
+  </a>
+</p>
 
 
 
