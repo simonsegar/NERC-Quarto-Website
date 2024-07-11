@@ -17,6 +17,9 @@ resources:
   - "Collection_Curation"
   - "Bioinformatics_EntoSkills"
   - "Molecular_Ecology_Introduction"
+  - "Quick_GenAlEx_Tutorial"
+  - "Aphid_Data"
+  - "Ecology_moth_talk_Master"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -39,6 +42,12 @@ Bioinformatics_EntoSkills:
   pdf: "Bioinformatics_EntoSkills.pptx"
 Molecular_Ecology_Introduction:
   pdf: "Molecular_Ecology_Introduction.pptx"
+Quick_GenAlEx_Tutorial:
+  pdf: "Quick_GenAlEx_Tutorial.pptx"
+Aphid_Data:
+  pdf: "Aphid_Data.txt"
+Ecology_moth_talk_Master:
+  pdf: "Ecology_moth_talk_Master.pdf"
 
 ---
 
@@ -62,11 +71,9 @@ Molecular_Ecology_Introduction:
 ```
 
 ```{=html}
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Research_Planning-download" href="`r rmarkdown::metadata$Research_Planning$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Research Planning
-  </a>
-</p>
+
+Day One
+
 <p class="text-center">
   <a class="btn btn-primary btn-lg Invertebrate_Survey_Methods-download" href="`r rmarkdown::metadata$Invertebrate_Survey_Methods$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Invertebrate Survey Methods
@@ -87,6 +94,9 @@ Molecular_Ecology_Introduction:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Dr Campbell's Summary of Interests
   </a>
 </p>
+
+Day Two
+
 <p class="text-center">
   <a class="btn btn-primary btn-lg Introduction_Taxonomy-download" href="`r rmarkdown::metadata$Introduction_Taxonomy$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Introduction Taxonomy
@@ -95,6 +105,25 @@ Molecular_Ecology_Introduction:
 <p class="text-center">
   <a class="btn btn-primary btn-lg Higher_Level_Taxonomy-download" href="`r rmarkdown::metadata$Higher_Level_Taxonomy$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Higher Level Taxonomy
+  </a>
+</p>
+
+
+Day Three
+
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Molecular_Ecology_Introduction-download" href="`r rmarkdown::metadata$Molecular_Ecology_Introduction$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Molecular Ecology Introduction
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Quick_GenAlEx_Tutorial-download" href="`r rmarkdown::metadata$Quick_GenAlEx_Tutorial$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Quick GenAlEx Tutorial
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Aphid_Data" href="`r rmarkdown::metadata$Aphid_Data$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aphid Data
   </a>
 </p>
 <p class="text-center">
@@ -107,16 +136,25 @@ Molecular_Ecology_Introduction:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Collection Curation
   </a>
 </p>
+
+Day Four
+
 <p class="text-center">
   <a class="btn btn-primary btn-lg Bioinformatics_EntoSkills-download" href="`r rmarkdown::metadata$Bioinformatics_EntoSkills$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Bioinformatics EntoSkills
   </a>
 </p>
 <p class="text-center">
-  <a class="btn btn-primary btn-lg Molecular_Ecology_Introduction-download" href="`r rmarkdown::metadata$Molecular_Ecology_Introduction$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Molecular Ecology Introduction
+  <a class="btn btn-primary btn-lg Ecology_moth_talk_Master" href="`r rmarkdown::metadata$Ecology_moth_talk_Master$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download John Owen Moth Lore
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Research_Planning-download" href="`r rmarkdown::metadata$Research_Planning$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Research Planning
+  </a>
+</p>
+
 
 
 
