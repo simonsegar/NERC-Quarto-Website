@@ -13,6 +13,9 @@ resources:
   - "Campbell_Summary"
   - "Introduction_Taxonomy"
   - "Higher_Level_Taxonomy"
+  - "Science_Communication"
+  - "Collection_Curation"
+  - "Bioinformatics_EntoSkills"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -27,7 +30,12 @@ Introduction_Taxonomy:
   pdf: "Introduction_Taxonomy.pptx"
 Higher_Level_Taxonomy:
   pdf: "Higher_Level_Taxonomy.pptx"
-
+Science_Communication:
+  pdf: "Science_Communication.pptx"
+Collection_Curation:
+  pdf: "Collection_Curation.pptx"
+Bioinformatics_EntoSkills:
+  pdf: "Bioinformatics_EntoSkills.pptx"
 ---
 
 ```{css echo=FALSE}
@@ -85,6 +93,22 @@ Higher_Level_Taxonomy:
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Higher Level Taxonomy
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Science_Communication-download" href="`r rmarkdown::metadata$Science_Communication$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Science Communication
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Collection_Curation-download" href="`r rmarkdown::metadata$Collection_Curation$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Collection Curation
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Bioinformatics_EntoSkills-download" href="`r rmarkdown::metadata$Bioinformatics_EntoSkills$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Bioinformatics EntoSkills
+  </a>
+</p>
+
 
 
 
