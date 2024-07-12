@@ -1,0 +1,26 @@
+## TITLE OF SCRIPT ####
+## Contents: xxxx
+## Data file(s):
+
+## File 1
+## File 2
+
+## Last editor: Your Name
+## Last edited: YYYY-MM-DD
+
+## CONTENTS ####
+## 00 Setup
+## 01 Install Libraries
+## 02 Analysis
+
+## 00 Setup ####
+
+setwd ("C:/.....")
+
+## 01 Install Libraries ####
+
+library(readxl)
+
+## 02 Exploratory Analysis ####
+
+# Annotation of Analysis

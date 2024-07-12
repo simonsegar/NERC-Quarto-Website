@@ -20,6 +20,8 @@ resources:
   - "Quick_GenAlEx_Tutorial"
   - "Aphid_Data"
   - "Ecology_moth_talk_Master"
+  - "Data_Visualisation"
+  - "Aphid_VOCs"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -48,6 +50,10 @@ Aphid_Data:
   pdf: "Aphid_Data.txt"
 Ecology_moth_talk_Master:
   pdf: "Ecology_moth_talk_Master.pdf"
+Data_Visualisation:
+  pdf: "Data_Visualisation.pdf"
+Aphid_VOCs:
+  pdf: "Aphid_VOCs.xlsx"
 
 ---
 
@@ -156,8 +162,19 @@ Day Four
 </p>
 
 
+Day Five
 
 
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Data_Visualisation-download" href="`r rmarkdown::metadata$Data_Visualisation$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Data Visualisation
+  </a>
+</p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Aphid_VOCs-download" href="`r rmarkdown::metadata$Aphid_VOCs$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aphid VOCs
+  </a>
+</p>
 
 
 
