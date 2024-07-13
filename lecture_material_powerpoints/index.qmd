@@ -22,6 +22,7 @@ resources:
   - "Ecology_moth_talk_Master"
   - "Data_Visualisation"
   - "Aphid_VOCs"
+  - "Aquatic_Insects"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Research_Planning: 
@@ -54,6 +55,8 @@ Data_Visualisation:
   pdf: "Data_Visualisation.pdf"
 Aphid_VOCs:
   pdf: "Aphid_VOCs.xlsx"
+Aquatic_Insects:
+  pdf: "Aquatic_Insects.pptx"
 
 ---
 
@@ -175,6 +178,12 @@ Day Five
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aphid VOCs
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Aquatic_Insects" href="`r rmarkdown::metadata$Aquatic_Insects$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aquatic Insects
+  </a>
+</p>
+
 
 
 
