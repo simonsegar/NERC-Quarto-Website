@@ -179,6 +179,7 @@ Day Five
 
 
 ```
+Day One
 
 ## Monitoring Invertebrate Papers
 
@@ -186,6 +187,8 @@ Day Five
 ">Monitoring Invertebrate Papers</a> 
 
 Papers referenced during the insect monitoring lectures
+
+Day Six
 
 ## Grassland Tutorial
 
