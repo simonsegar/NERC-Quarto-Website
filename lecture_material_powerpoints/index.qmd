@@ -52,7 +52,7 @@ Aphid_Data:
 Ecology_moth_talk_Master:
   pdf: "Ecology_moth_talk_Master.pdf"
 Data_Visualisation:
-  pdf: "Data_Visualisation.pdf"
+  pdf: "Data_Visualisation.pptx"
 Aphid_VOCs:
   pdf: "Aphid_VOCs.xlsx"
 Aquatic_Insects:
