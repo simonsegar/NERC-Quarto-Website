@@ -4,7 +4,7 @@
 # website settings
 website:
   title: "Harper Adams NERC Course 2025"                                # Your name
-  description: "A website to accompany the 2024 NERC skills in entomology course"   # A brief slogan (optional)
+  description: "A website to accompany the 2025 NERC skills in entomology course"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   # favicon: img_ento/ant.png
