@@ -1,9 +1,9 @@
 # This file controls the settings for your Quarto template from www.marvinschmitt.com
-# Edited by Simon T. Segar 2024/07/03
+# Edited by Simon T. Segar 2025/07/24
 
 # website settings
 website:
-  title: "Harper Adams NERC Course 2024"                                # Your name
+  title: "Harper Adams NERC Course 2025"                                # Your name
   description: "A website to accompany the 2024 NERC skills in entomology course"   # A brief slogan (optional)
   image: img/my_image.jpg
   

@@ -6,7 +6,6 @@ execute:
   freeze: false  # never re-render during project render
 engine: knitr 
 resources:
-  - "Research_Planning"
   - "Invertebrate_Survey_Methods"
   - "Monitoring_Invertebrate_Pests"
   - "Segar_Summary"
@@ -15,18 +14,10 @@ resources:
   - "Higher_Level_Taxonomy"
   - "Science_Communication"
   - "Collection_Curation"
-  - "Bioinformatics_EntoSkills"
-  - "Molecular_Ecology_Introduction"
-  - "Quick_GenAlEx_Tutorial"
-  - "Aphid_Data"
   - "Ecology_moth_talk_Master"
-  - "Data_Visualisation"
-  - "Aphid_VOCs"
   - "Aquatic_Insects"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
-Research_Planning: 
-  pdf: "Research_Planning.pptx"
 Monitoring_Invertebrate_Pests:
   pdf: "Monitoring_Invertebrate_Pests.pptx"
 Segar_Summary:
@@ -41,20 +32,8 @@ Science_Communication:
   pdf: "Science_Communication.pptx"
 Collection_Curation:
   pdf: "Collection_Curation.pptx"
-Bioinformatics_EntoSkills:
-  pdf: "Bioinformatics_EntoSkills.pptx"
-Molecular_Ecology_Introduction:
-  pdf: "Molecular_Ecology_Introduction.pptx"
-Quick_GenAlEx_Tutorial:
-  pdf: "Quick_GenAlEx_Tutorial.pptx"
-Aphid_Data:
-  pdf: "Aphid_Data.txt"
 Ecology_moth_talk_Master:
   pdf: "Ecology_moth_talk_Master.pdf"
-Data_Visualisation:
-  pdf: "Data_Visualisation.pptx"
-Aphid_VOCs:
-  pdf: "Aphid_VOCs.xlsx"
 Aquatic_Insects:
   pdf: "Aquatic_Insects.pptx"
 
@@ -121,26 +100,6 @@ Day Two
 Day Three
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg Molecular_Ecology_Introduction-download" href="`r rmarkdown::metadata$Molecular_Ecology_Introduction$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Molecular Ecology Introduction
-  </a>
-</p>
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Quick_GenAlEx_Tutorial-download" href="`r rmarkdown::metadata$Quick_GenAlEx_Tutorial$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Quick GenAlEx Tutorial
-  </a>
-</p>
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Aphid_Data" href="`r rmarkdown::metadata$Aphid_Data$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aphid Data
-  </a>
-</p>
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Science_Communication-download" href="`r rmarkdown::metadata$Science_Communication$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Science Communication
-  </a>
-</p>
-<p class="text-center">
   <a class="btn btn-primary btn-lg Collection_Curation-download" href="`r rmarkdown::metadata$Collection_Curation$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Collection Curation
   </a>
@@ -149,35 +108,16 @@ Day Three
 Day Four
 
 <p class="text-center">
-  <a class="btn btn-primary btn-lg Bioinformatics_EntoSkills-download" href="`r rmarkdown::metadata$Bioinformatics_EntoSkills$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Bioinformatics EntoSkills
-  </a>
-</p>
-<p class="text-center">
   <a class="btn btn-primary btn-lg Ecology_moth_talk_Master" href="`r rmarkdown::metadata$Ecology_moth_talk_Master$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download John Owen Moth Lore
   </a>
 </p>
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Research_Planning-download" href="`r rmarkdown::metadata$Research_Planning$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Research Planning
-  </a>
-</p>
+
 
 
 Day Five
 
 
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Data_Visualisation-download" href="`r rmarkdown::metadata$Data_Visualisation$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Data Visualisation
-  </a>
-</p>
-<p class="text-center">
-  <a class="btn btn-primary btn-lg Aphid_VOCs-download" href="`r rmarkdown::metadata$Aphid_VOCs$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aphid VOCs
-  </a>
-</p>
 <p class="text-center">
   <a class="btn btn-primary btn-lg Aquatic_Insects" href="`r rmarkdown::metadata$Aquatic_Insects$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Aquatic Insects
@@ -196,14 +136,5 @@ Day One
 ">Monitoring Invertebrate Papers</a> 
 
 Papers referenced during the insect monitoring lectures
-
-Day Six
-
-## Grassland Tutorial
-
-<a href="https://liveharperac-my.sharepoint.com/:f:/g/personal/ssegar_harper-adams_ac_uk/EviTYegzTbFCu0QAfCzwa90BB5L3Lgg8i--UBBe0CtAH7g?e=EHf5cc
-">R Tutorial</a> 
-
-Data and tutorial 
 
 
