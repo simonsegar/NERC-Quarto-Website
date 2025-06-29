@@ -16,6 +16,8 @@ resources:
   - "Collection_Curation"
   - "Ecology_moth_talk_Master"
   - "Aquatic_Insects"
+  - "Monitoring_Crops"
+  - "Bio_Tom_Pope"
 Invertebrate_Survey_Methods:
   pdf: "Invertebrate_Survey_Methods.pptx"
 Monitoring_Invertebrate_Pests:
@@ -36,6 +38,10 @@ Ecology_moth_talk_Master:
   pdf: "Ecology_moth_talk_Master.pdf"
 Aquatic_Insects:
   pdf: "Aquatic_Insects.pptx"
+Monitoring_Crops:
+  pdf: "Monitoring_Crops.pdf"
+Bio_Tom_Pope:
+  pdf: "Bio_Tom_Pope.pdf"
 
 ---
 
@@ -68,6 +74,11 @@ Day One
   </a>
 </p>
 <p class="text-center">
+  <a class="btn btn-primary btn-lg Monitoring_Crops-download" href="`r rmarkdown::metadata$Monitoring_Crops$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Monitoring in Crops
+  </a>
+</p>
+<p class="text-center">
   <a class="btn btn-primary btn-lg Monitoring_Invertebrate_Pests-download" href="`r rmarkdown::metadata$Monitoring_Invertebrate_Pests$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Monitoring Invertebrate Pests
   </a>
@@ -82,6 +93,15 @@ Day One
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Dr Campbell's Summary of Interests
   </a>
 </p>
+<p class="text-center">
+  <a class="btn btn-primary btn-lg Bio_Tom_Pope-download" href="`r rmarkdown::metadata$Bio_Tom_Pope$pdf`" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Professor Pope's Summary of Interests
+  </a>
+</p>
+
+
+
+
 
 Day Two
 
